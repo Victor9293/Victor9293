@@ -4,7 +4,7 @@
 
 I'm interested in how AI models get things wrong: hallucinated facts, broken instructions, weak reasoning, and Portuguese that sounds Brazilian when it should sound European (or the reverse). I also build game systems in Luau on Roblox.
 
-Currently looking for remote AI training and LLM evaluation work.
+Currently looking for remote AI training and LLM evaluation work. [LinkedIn →](https://www.linkedin.com/in/victor-ferreira-897546452)
 
 #### Featured project
 
